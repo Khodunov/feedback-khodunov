@@ -1,0 +1,4 @@
+cron:
+- description: "Ежедневная отправка отзывов"
+  url: /send_updates_in_feedback
+  schedule: every day 23:59
